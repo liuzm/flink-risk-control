@@ -17,7 +17,7 @@
     "@ant-design/pro-components": "^2.8.6",
     "axios": "^1.7.0",
     "dayjs": "^1.11.13",
-    "antd-style": "^3.6.0"
+    "antd-style": "^4.1.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.0",
