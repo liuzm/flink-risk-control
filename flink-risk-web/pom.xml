@@ -20,7 +20,7 @@
         <java.version>17</java.version>
         <spring.boot.version>3.2.0</spring.boot.version>
         <mybatis.plus.version>3.5.5</mybatis.plus.version>
-        <mysql.version>8.1.0</mysql.version>
+        <mysql.version>9.7.0</mysql.version>
     </properties>
 
     <dependencies>
