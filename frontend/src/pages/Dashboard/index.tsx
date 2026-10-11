@@ -43,7 +43,7 @@ const Dashboard: React.FC = () => {
     { title: '规则名称', dataIndex: 'ruleName', key: 'ruleName' },
     { title: '命中次数', dataIndex: 'hitCount', key: 'hitCount',
       sorter: (a: { hitCount: number }, b: { hitCount: number }) => b.hitCount - a.hitCount,
-      defaultSortOrder: 'descend',
+      defaultSortOrder: 'descend' as const,
     },
   ];
 

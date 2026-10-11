@@ -8,6 +8,7 @@ target/
 # Node
 node_modules/
 dist/
+.wrangler/
 .DS_Store
 
 # IDE
